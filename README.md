@@ -17,5 +17,3 @@ cd go-net
 go build
 sudo cp net /usr/bin/gonet
 ```
-
-"keep it simple stupid"

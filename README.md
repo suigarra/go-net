@@ -13,7 +13,6 @@ arrow keys to navigate
 
 ```shell
 git clone https://codeberg.org/suigarra/go-net.git
-cd go-net
-go build
+cd go-net && go build
 sudo cp net /usr/bin/gonet
 ```
